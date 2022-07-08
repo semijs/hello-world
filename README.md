@@ -1,2 +1,2 @@
-# hello-world
-My tutorial repo 
+## hello-world
+My tutorial repo for Hello World
