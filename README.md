@@ -2,9 +2,7 @@
 
 My tutorial repo 
 
-hi min fråga är denna 
+My question is this: 
 
-jag fick för mig att pull requset var någotjag skickade till dig för att jag ville bidra med ngt till ditt repo 
-men här gör jag en pull request på ngt repo du inte visste fanns liskom 
-????
+what are the functions of a pull request?
 
